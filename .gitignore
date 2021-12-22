@@ -110,3 +110,9 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 /.idea/jarRepositories.xml
+/.idea/compiler.xml
+/.idea/runConfigurations.xml
+/.idea/google-java-format.xml
+/.idea/misc.xml
+/pom.xml
+/.idea/vcs.xml
